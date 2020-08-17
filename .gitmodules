@@ -1,0 +1,6 @@
+[submodule "LattessinioFront"]
+	path = LattessinioFront
+	url = https://github.com/ClaroHenrique/LattessinioFront
+[submodule "LattessinioBack"]
+	path = LattessinioBack
+	url = https://github.com/ClaroHenrique/LattessinioBack
