@@ -10,4 +10,4 @@ Os detalhes de execução do frontend e backend estão documentados em seu devid
 
 Links:
 * https://lattessinio.netlify.app/ (frontend)
-* https://lattessinio.herokuapp.com/ (frontend)
+* https://lattessinio.herokuapp.com/ (backend)
